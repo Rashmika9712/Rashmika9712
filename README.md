@@ -1,9 +1,10 @@
 Hi 👋, I'm Rashmika Madushan
 
+An undergraduate in computer science who like to learn new things, work hard by cooperating with a team or as an individual. I am more keen on Software Engineering. 
 <!--
 **Rashmika9712/Rashmika9712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ere are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
