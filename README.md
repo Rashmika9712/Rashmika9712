@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashmika9712" alt="rashmika9712" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/rashmikamadush8" target="blank"><img src="https://img.shields.io/twitter/follow/rashmikamadush8?logo=twitter&style=for-the-badge" alt="rashmikamadush8" /></a> </p>
+
 - 🌱 I’m currently learning **.NET, Angular, C#, JS, TypeScript**
 
 - 📫 How to reach me **rashmikamadushansamarakoon@gmail.com**
