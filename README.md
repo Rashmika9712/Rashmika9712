@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **I’m currently learning .NET, Angular, C#, JS, TypeScript**
 
-- 📫 How to reach me **rashmikamadushansamarakoon@gmail.com**
+- 📫 How to reach me **rashmikamadushansamarakoon@gmail.com / msrashmika12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
