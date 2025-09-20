@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rashmika Madushan Samarakoon</h1>
-<h3 align="center">An undergraduate in computer science who like to learn new things, work hard by cooperating with a team or as an individual. I am more keen on Software Engineering.</h3>
+<h3 align="center">A Graduate in computer science who likes to learn new things, work hard by cooperating with a team or as an individual. I am more keen on Software Engineering.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashmika9712&label=Profile%20views&color=0eb437&style=plastic" alt="rashmika9712" /> </p>
 
